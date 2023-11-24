@@ -1,0 +1,9 @@
+:root {
+  --white: rgba(255, 255, 255, 1);
+  --paragraph-font-family: "Roboto-Regular", Helvetica;
+  --paragraph-font-weight: 400;
+  --paragraph-font-size: 16px;
+  --paragraph-letter-spacing: 0px;
+  --paragraph-line-height: 150%;
+  --paragraph-font-style: normal;
+}
